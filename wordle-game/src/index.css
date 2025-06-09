@@ -1,0 +1,22 @@
+body {
+  background-color: #111;
+  color: white;
+  font-family: sans-serif;
+  display: flex;
+  justify-content: center;
+  padding-top: 50px;
+}
+
+.app {
+  outline: none; /* so keyboard focus works without border */
+}
+
+.grid {
+  display: inline-block;
+  margin-top: 20px;
+}
+
+.row {
+  display: flex;
+  justify-content: center;
+}
