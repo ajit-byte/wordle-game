@@ -89,7 +89,7 @@ h1 {
   font-size: 0.9rem;
 }
 
-/* Extra tiny screen support */
+
 @media (max-width: 400px) {
   .wordle-cell {
     width: 35px;
